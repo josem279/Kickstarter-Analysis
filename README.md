@@ -11,10 +11,14 @@
 ### Analysis of Outcomes Based on Launch Date
 
   To address Louise's first question, "How well do Kickstarter campaigns do in relation to their launch date?", a Pivot Table and Pivot Chart were created filtering out data by the Theater Category and only looking at Kickstarter campaigns which met one of three outcomes: succesful, failed, or canceled. 
+  
+![Theater Outcomes Based on Launch Date](https://github.com/josem279/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
   As for the second inquiry that Louise had, "How do different Kickstarter campaigns fare with relation to their funding goals?", we analyzed a subset of data consisting of the number of successful, failed, and canceled projects grouped by dollar amount ranges up to $50,000. After getting the number of campaigns that fell within each group, we were then able to calculate the percentage that succeeded, failed or were canceled respectively. Furthermore, this subset of data allowed us to create a visual representation of the data in a line graph that highlighted which campaigns based on goals succeeded the most by the dollar range.
+
+![Play Outcomes Based on Goals](https://github.com/josem279/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
   
